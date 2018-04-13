@@ -547,7 +547,7 @@ section.hero .nav-dots span {
   background: #fff;
 }
 section.hero .nav-dots span.nav-dot-current::after {
-  background: #7fb401;
+  background: #3b4381;
 }
 section.hero #scroll-down {
   width: 30px;
