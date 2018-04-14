@@ -1440,7 +1440,7 @@ footer .copyrights p a:hover {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #ffffff;
+  color: #3b4381;
   background-color: #3b4381;
 }
 .nav-tabs-justified > li > a {
@@ -2048,7 +2048,7 @@ label {
 .pagination > li > a:focus,
 .pagination > li > span:focus {
   color: #3b4381;
-  background-color: #cafe50;
+  background-color: #3b4381;
   border-color: #dddddd;
 }
 .pagination > .active > a,
@@ -2058,7 +2058,7 @@ label {
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
   z-index: 2;
-  color: #ffffff;
+  color: #3b4381;
   background-color: #3b4381;
   border-color: #3b4381;
 }
