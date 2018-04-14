@@ -1,4 +1,3 @@
-
 /*parsed HTML*/
 $(function(){
 	$(".maxheight").each(function(){
@@ -43,4 +42,3 @@ function height_handler(){
 		return this.each(function(){$(this).height(tallest)})
 	}
 })(jQuery)
-

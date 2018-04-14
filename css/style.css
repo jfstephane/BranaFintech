@@ -1,3 +1,4 @@
+
 /**/
 @import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
 /*        'Pathway Gothic One', sans-serif       */
@@ -398,7 +399,7 @@ ul.list2 span {
 
 ul.list2 li {
 	padding-left: 11px;
-	background: url(../img/marker.png) 0 8px no-repeat;
+	background: url(../images/marker.png) 0 8px no-repeat;
 }
 
 ul.list2 li+li {
@@ -545,4 +546,5 @@ footer {
 .copy {
 
 }
+
 
