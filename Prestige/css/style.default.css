@@ -78,28 +78,28 @@ NAVBAR
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   }
   .home .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #c4101a;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   }
   .home .navbar-default .navbar-brand {
-    color: #fff;
+    color: #c4101a;
     position: relative;
     top: 0;
   }
   .home .navbar-default .navbar-brand:hover,
   .home .navbar-default .navbar-brand:focus {
-    color: #fff;
+    color: #c4101a;
     top: 2px;
   }
   .home .navbar-default ul.nav > li > a:hover,
   .home .navbar-default ul.nav > li > a:focus {
-    border-top-color: #fff;
-    color: #fff;
+    border-top-color: #c4101a;
+    color: #c4101a;
   }
   .home .navbar-default ul.nav > li.active > a,
   .home .navbar-default ul.nav > li.open > a {
     text-decoration: none !important;
-    border-top-color: #fff;
+    border-top-color: #c4101a;
   }
 }
 .navbar-toggle {
